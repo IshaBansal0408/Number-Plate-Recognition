@@ -1,1 +1,1 @@
-# Number-Plate-Recognition - PlateBuster Application 
+# Number-Plate-Recognition
